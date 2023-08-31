@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "News Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Latest News about every trend around world",
+    url: "https://ahsankhalid618.github.io/News-website/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The weather app project is a dynamic and user-friendly web application that uses React.js to retrieve current and 5-day weather forecasts for various cities around the world. The app allows users to search for a city by name and view its weather conditions, including temperature, humidity, wind speed, and description of the current weather. Additionally, the app displays an appropriate background image based on the weather conditions in the selected city. The app is designed to be responsive and user-friendly, providing a seamless experience for the user.",
+    url: "https://ahsankhalid618.github.io/react-weather-app/",
   },
   {
-    title: "My Resume Site",
+    title: "Word Counter",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The project is a Word Counter application made in React.js. It allows the user to count the number of words in a given sentence. The app also provides a dark mode option for users who prefer a darker interface.The app has a preview section that displays the typed words in real-time. This allows the user to see how many words they have typed and to correct any errors. The preview section also provides features such as converting the text to uppercase or lowercase, clearing the text, and copying the text.Additionally, the app has a feature that displays the time frame for reading the entire sentence. This is calculated based on the average reading speed of a human. The time frame is displayed in seconds and can be used to help the user estimate how long it will take them to read the sentence.The app is a simple and easy-to-use tool that can be used to count the number of words in a sentence. It also provides a number of features that can help the user with their writing, such as the preview section and the time frame feature.",
+    url: "https://ahsankhalid618.github.io/wordcounter/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Chat App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The application allows multiple users to chat with each other in real-time and store chat data in Firebase. The application is built with React.js, a JavaScript library for building user interfaces. React.js is known for its performance, flexibility, and scalability. The application is also built with Firebase, a backend-as-a-service platform that provides real-time data storage, authentication, and hosting. The application is designed to be user-friendly and scalable. It is also secure and compliant with industry standards.",
+    url: "https://ahsankhalid618.github.io/chatapp/",
   },
 ];
 
