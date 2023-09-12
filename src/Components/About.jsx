@@ -33,7 +33,7 @@ const description =
 const skillsList = [
   "HTML/HTML5",
   "CSS3/Tailwind/Bootstrap5",
-  "Advance Javascript",
+  "Javascript ES-6",
   "React.js / Next.js",
   "Typescript",
   "Responsive Design",
