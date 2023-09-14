@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "News Website 🎉",
+    title: "News-Website 🎉",
     description:
       "Latest News about every trend around world",
     url: "https://ahsankhalid618.github.io/News-website/",
