@@ -21,7 +21,7 @@ import "./styles.css";
  *
  * Update the values below with your information.
  *
- * If you don't have one of the social sites listed, leave it as an empty string.
+ * If you don't have one of the social sites listed , leave it as an empty string.
  */
 const siteProps = {
   name: "Ahsan Khalid ",
